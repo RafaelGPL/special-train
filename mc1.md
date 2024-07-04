@@ -8,3 +8,6 @@
 2. Create urlpatterns similar to those for HomePageView.
 2.2. The first parameter in the `path` call should be `about/`.
 3. Test; Make sure you can access this new url by going to `http://127.0.0.1:8000/about`
+
+
+## Hello world, this is a quick example of a file being changed
